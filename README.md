@@ -4,8 +4,7 @@ Skills - [ MySQL, ER Diagram ]
 In this case study I had solved several problems using SQL query. Skills - [ MySQL, ER Diagram ].     
 
 The problems that are taken are listed below -- 
-
-* Easy to Intermediate Level:
+*Easy to Intermediate Level:
 
 1. Find customers who have never ordered.
 2. Average Price/dish.
@@ -13,7 +12,7 @@ The problems that are taken are listed below --
 4. Restaurants with monthly sales greater than x amount.
 
    
-* Intermediate to Difficult Level:
+*Intermediate to Difficult Level:
 
 6.  Show all orders with order details for a particular customer in a particular date range.
 7.  Find restaurants with max repeated customers.
