@@ -1,7 +1,8 @@
 # Swiggy_Case_Study
 Skills - [ MySQL, ER Diagram ] 
 
-In this case study I had solved several problems using SQL query. Skills - [ MySQL, ER Diagram ] 
+In this case study I had solved several problems using SQL query. Skills - [ MySQL, ER Diagram ].     
+
 The problems that are taken are listed below -- 
 
 Easy to Intermediate Level:
