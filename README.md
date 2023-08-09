@@ -19,5 +19,4 @@ The problems that are taken are listed below --
 7.  Find restaurants with max repeated customers.
 8.  Month over month revenue growth of swiggy.
 9.  Customer - favorite food.
-10. Find the most loyal customers for all restaurant.
-11. Month over month revenue growth of a restaurant.
+
