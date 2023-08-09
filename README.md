@@ -20,3 +20,5 @@ The problems that are taken are listed below --
 7.  Month over month revenue growth of swiggy.
 8.  Customer - favorite food.
 
+Please refer pdf file named 'SwiggyCaseStudySQL' in the repository for the solution of the above questions 
+
