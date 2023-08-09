@@ -15,8 +15,8 @@ The problems that are taken are listed below --
    
 *Intermediate to Difficult Level*:
 
-6.  Show all orders with order details for a particular customer in a particular date range.
-7.  Find restaurants with max repeated customers.
-8.  Month over month revenue growth of swiggy.
-9.  Customer - favorite food.
+5.  Show all orders with order details for a particular customer in a particular date range.
+6.  Find restaurants with max repeated customers.
+7.  Month over month revenue growth of swiggy.
+8.  Customer - favorite food.
 
